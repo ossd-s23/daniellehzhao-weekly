@@ -10,7 +10,7 @@ I was born and raised in Edison, NJ but moved to NYC to attend NYU; somewhere cl
 
 When I don't have a screen in my face you can find me cooking/baking, window shopping, taking a long walk, playing with my cat, or working out. I'm currently training for a half marathon (it's been a humbling experience).
 
-# Two truths and a lie[^1]:
+#### Two truths and a lie[^1].
 1. I have a tattoo of a mushroom.
 2. I was in a commercial when I was little.
 3. My middle name is Hope.
