@@ -15,4 +15,3 @@ When I don't have a screen in my face you can find me cooking/baking, window sho
 2. I was in a commercial when I was little.
 3. My middle name is Hope.
 
-
